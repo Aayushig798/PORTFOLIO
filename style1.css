@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    
+}
+#navbar{
+    background-color: black;
+    height: 50px;
+   
+}
+#intro{
+    background-color: black;
+    height: 300px;
+
+}
+
+#home{
+    margin-left:750px;
+    font-size: large;
+    color: white;
+}
+.other{
+    margin-left: 50px;
+    font-size: large;
+    color: white;
+}
+#hello{
+    margin: 50px;
+    margin-bottom: 0px;
+    margin-top: 60px;
+    font-size: x-large;
+}
+#myname{
+    margin-left: 70px ;
+    font-weight: bold;
+    margin-top: 20px;
+    color: rgb(201, 136, 32);
+    font-size: 40px;
+}
+#about{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+#aboutme{
+    color: black;
+    font-size: 45px;
+    
+    font-weight: bold;
+    text-align: center;
+}
+#demo{
+    color: black;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+#edu{
+    color: black;
+    font-size: 30px;
+    margin: 10px;
+    font-weight:800;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#edudetail{
+    color: black;
+    margin-left: 30px;
+    font-size: 20px;
+}
+#skills{
+    color: black;
+    font-size: 30px;
+    margin: 10px;
+    font-weight:800;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#skillsname{
+    color: black;
+    margin-left: 30px;
+    font-size: 20px;
+}
+#hobby{
+    color: black;
+    font-size: 30px;
+    margin: 10px;
+    font-weight:800;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#abouthobby{
+    color: black;
+    margin-left: 30px;
+    font-size: 20px;
+}
+#contact{
+    color: black;
+    font-size: 30px;
+    margin-top: 40px;
+    font-weight:800;
+    margin-left: 800px;
+    
+}
+#email{
+    color: black;
+    
+    margin-left: 800px;
+    margin-top: 10px;
+    font-size: 20px;
+   
+}
+
+#text{
+    background-color: #808080;
+    height:650px;
+}
+#projects{
+    color: black;
+    font-size: 30px;
+    margin: 10px;
+    font-weight:800;
+    margin-left: 800px;
+    margin-top: -220px;
+}
+
+#projectsname{
+    color: black;
+    margin-left: 800px;
+    margin-top: px;
+    font-size: 20px;
+}
+
